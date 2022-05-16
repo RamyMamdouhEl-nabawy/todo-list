@@ -1,3 +1,20 @@
+# A Task List Application
+
+### You can create a Task, Edit and remove it
+
+## For Installation please follow guides
+
+#### - Make a directory folder named todo-list manually or using command by navigate into needed location then [ mkdir todolist ]
+
+#### - After creating directory navigate inot path by typing [ cd todo-list ]
+
+#### - Clone repository using command [ git clone ]
+
+#### - Install packages using command [ npm install ] you should be having Node on your device
+
+#### - After installing packages you can successfully run the application [ npm start ], 
+####    the application is running at [http://localhost:3000/]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
